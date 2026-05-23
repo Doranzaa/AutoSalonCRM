@@ -72,7 +72,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![Image alt](https://github.com/{Doranzaa}/{AutoSalonCRM}/raw/{main}/{AutoSalonCRM/screens}/iAspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.001.jpeg)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.001.jpeg?raw=true)
 
 -----
 ### 2\. Сторінка авторизації та реєстрації
@@ -82,7 +82,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.001.jpeg?raw=true)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.002.jpeg?raw=true)
 
 -----
 ### 3\. Сторінка автомобілів
@@ -92,7 +92,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.003.jpeg)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.003.jpeg?raw=true)
 
 -----
 ### 4\. Сторінка клієнтів
@@ -102,7 +102,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.004.jpeg)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.004.jpeg?raw=true)
 
 -----
 ### 5\. Сторінка опцій
@@ -112,7 +112,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.005.jpeg)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.005.jpeg?raw=true)
 
 -----
 ### 6\. Сторінка продажів
@@ -122,7 +122,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.006.jpeg)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.006.jpeg?raw=true)
 
 -----
 ### 7\. Сторінка звернення користувача
@@ -132,7 +132,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.007.jpeg)-----
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.007.jpeg?raw=true)-----
 ### 8\. Сторінка звернень адміністратора
 Ця сторінка доступна тільки користувачу з роллю admin. На ній відображаються всі звернення, які були створені авторизованими користувачами, а також реалізована можливість видалення звернення.
 
@@ -140,7 +140,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.008.jpeg)
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.008.jpeg?raw=true)
 
 -----
 ## Ролі користувачів
