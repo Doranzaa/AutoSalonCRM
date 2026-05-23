@@ -82,7 +82,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.002.jpeg)
+![]([Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.002.jpeg](https://github.com/Doranzaa/AutoSalonCRM/blob/dc7f1778dca441398a5b7ff154b6901dce39db83/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.001.jpeg))
 
 -----
 ### 3\. Сторінка автомобілів
