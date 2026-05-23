@@ -156,12 +156,12 @@ URL: https://autosaloncrm.page.gd
 
 Приклади запитів:
 
-GET http://localhost/autosalon/api.php?resource=cars\
-GET http://localhost/autosalon/api.php?resource=clients\
-POST http://localhost/autosalon/api.php?resource=auth&action=login\
-POST http://localhost/autosalon/api.php?resource=auth&action=register\
-POST http://localhost/autosalon/api.php?resource=inquiries\
-GET http://localhost/autosalon/api.php?resource=inquiries
+GET https://autosaloncrm.page.gd/api.php?resource=cars
+GET https://autosaloncrm.page.gd/api.php?resource=clients
+POST https://autosaloncrm.page.gd/api.php?resource=auth&action=login
+POST https://autosaloncrm.page.gd/api.php?resource=auth&action=register
+POST https://autosaloncrm.page.gd/api.php?resource=inquiries
+GET https://autosaloncrm.page.gd/api.php?resource=inquiries
 
 Наявність окремого API підтверджує, що frontend частина працює через запити до сервера, а не з локальними масивами чи мок-даними.
 ## Висновок
