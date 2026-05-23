@@ -132,7 +132,9 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.007.jpeg?raw=true)-----
+![](https://github.com/Doranzaa/AutoSalonCRM/blob/main/AutoSalonCRM/screens/Aspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.007.jpeg?raw=true)
+
+-----
 ### 8\. Сторінка звернень адміністратора
 Ця сторінка доступна тільки користувачу з роллю admin. На ній відображаються всі звернення, які були створені авторизованими користувачами, а також реалізована можливість видалення звернення.
 
