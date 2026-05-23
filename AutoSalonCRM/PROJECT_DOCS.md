@@ -72,7 +72,7 @@ URL: https://autosaloncrm.page.gd
 
 **Скріншот:**
 
-![Image alt](https://github.com/{Doranzaa}/{AutoSalonCRM}/raw/{main}/{AutoSalonCRM/screens}/iAspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.001.jpeg)
+![](https://raw.githubusercontent.com/Doranzaa/AutoSalonCRM/main/AutoSalonCRM/screens/iAspose.Words.918f2502-ffe3-44b6-be53-6112d48f465a.001.jpeg)
 
 -----
 ### 2\. Сторінка авторизації та реєстрації
